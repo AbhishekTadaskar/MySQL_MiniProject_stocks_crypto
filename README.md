@@ -88,7 +88,7 @@ The `queries.sql` file includes **20+ SQL queries** categorized as:
 19. For each stock, find crypto with highest market cap on the same date.  
 20. Count how many cryptos were recorded on the same date as each stock.  
 21. Daily average of Microsoft vs Bitcoin side-by-side.  
-22. Ranking stocks by percentage change using `RANK()` (Window Function).  
+  
 
 ---
 
