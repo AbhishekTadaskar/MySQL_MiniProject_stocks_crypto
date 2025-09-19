@@ -1,0 +1,1 @@
+# MySQL_MiniProject_stocks_crypto
